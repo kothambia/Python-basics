@@ -1,5 +1,10 @@
 #fstring
+def square(l):
+    """My bussiness is my only non of your concern bitch"""
+    l = l ** 3
+    print(l)
 
+square(6)
 
 txt = "my name is {1} and my age is {0}"
 name = "sachin"
