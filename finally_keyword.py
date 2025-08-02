@@ -5,7 +5,7 @@ def ind():
         print(l[a])
         return "success"
     except:
-        print("rond error bhosmarina gher ja")
+        print("gher ja")
         return "sorry bro"
     finally:
         print("show ad")
