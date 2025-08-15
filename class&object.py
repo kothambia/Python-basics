@@ -29,4 +29,4 @@ c.clothe = "survival"
 c.sex = "female"
 c.profession = "Kill zombies"
 c.country = "USA"
-d.info()
+a.info()
